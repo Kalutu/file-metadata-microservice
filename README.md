@@ -40,6 +40,5 @@ The application exposes the following API endpoint:
    - **Response**: JSON object containing file information (name, type, size)
 
 ## Contributing
-
-This project is licensed under the [MIT License](LICENSE).
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
